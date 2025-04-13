@@ -25,12 +25,16 @@ const App = () => {
           <input type="password" placeholder="Password" className="input-field" required />
           <i className="material-symbols-rounded">lock</i>
         </div>
-
+           <a href="#" className="forgot-pass-link">Forgot Password?</a>
+           <button className="login-buttton">Log In</button>
       </form>
+
+      <p className="signup-text">Don't have an account? <a href="#">Signup now</a></p>
     </div>
     
    
   )
-}
+}           
+  
 
 export default App
