@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 /*Importing Montserrat font from Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 * {
@@ -44,4 +41,4 @@ box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 .social-login .social-button .social-icon{
     width: 23px;
 }
->>>>>>> 6baeb5c (adding background)
+
